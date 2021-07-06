@@ -1,7 +1,9 @@
 const fs = require('fs');
 const Discord = require('discord.js');
 const mongodb = require('./connect.js');
-const { prefix, token, uri} = require('./config.json');
+const prefix = require(process.env.prefix);
+const token = require(process.env.token);
+const uri = require(process.env.uri);
 
 const client = new Discord.Client();
 client.commands = new Discord.Collection();
