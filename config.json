@@ -1,0 +1,7 @@
+{
+    "token": "ODYxMzI3ODIzNjc5MTI3NTgz.YOIMCw.0ndopbKU6SH55NWCEZ8w-pbf0sI",
+    "prefix": ".",
+    "mongoPath": "mongodb+srv://DiscordBot:quebec38@roninsgearbot.ee796.mongodb.net/ RoninsGearBot?retryWrites=true&w=majority",
+    "PROTOCOL_MONGODB_SRV": "mongodb+srv://DiscordBot:quebec38@roninsgearbot.ee796.mongodb.net/ RoninsGearBot?retryWrites=true&w=majority",
+    "uri": "mongodb+srv://DiscordBot:quebec38@roninsgearbot.ee796.mongodb.net/ RoninsGearBot?retryWrites=true&w=majority"
+} 

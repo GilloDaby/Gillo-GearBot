@@ -1,0 +1,19 @@
+{
+  "name": "Ronins-GeatBot",
+  "version": "1.0.0",
+  "description": "BETA(0.2.0)",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "mongo": "^0.1.0",
+    "mongodb": "^3.6.9",
+    "mongoose": "^5.11.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "GilloDaby",
+  "license": "ISC"
+}
